@@ -20,8 +20,6 @@ klassischer ML-Modelle, die die relative Kursentwicklung über die folgenden 90
 Tage prognostizieren. Bewertet werden die Modelle über die Rendite eines Long-Short
 Portfolios.
 
----
-
 ## Versuchsaufbau
 
 | Versuch | Eingabe an das LLM                                                      | Merkmale je Transkript |
@@ -41,8 +39,6 @@ Skala jeweils 0 bis 1 in Schritten von 0.1.
 
 Zusätzlich gibt das Modell im selben Aufruf eine direkte Kursprognose aus, die
 als Vergleichsgrösse dient.
-
----
 
 ## Repository-Struktur
 
@@ -73,8 +69,6 @@ Versuchsnummerierung der Arbeit:
 | `v4` | Versuch 2 – gesamte Transkripte |
 | `v5` | Versuch 3 – Kombination |
 
----
-
 ## Reproduktion
 
 Die Notebooks sind für **Google Colab** geschrieben und lesen bzw. schreiben
@@ -101,7 +95,7 @@ Kontrollversuch, unabhängig von Schritt 4 bis 6:
 
 ### Daten
 
-Grundlage ist ein öffentlich verfügbarer Datensätze von Hugging Face:
+Grundlage ist ein öffentlich verfügbarer Datensatz von Hugging Face:
 
 - Nanavaty, R. (2026). *S&P 500 earnings episodes (2005–2025)*. <https://huggingface.co/datasets/RudrakshNanavaty/earnings-call-data>
 
@@ -110,8 +104,6 @@ Grundlage ist ein öffentlich verfügbarer Datensätze von Hugging Face:
 
 `features.parquet` enthält die zugehörigen Kursentwicklungen (`move_1d`, `move_30d`,
 `move_next_qtr`).
-
----
 
 ## Requirements
 
@@ -128,8 +120,6 @@ rapidfuzz  transformers  yfinance  tqdm
 ```
 vllm  pandas
 ```
-
----
 
 ## Lizenz und Nutzung
 <div align="center">
