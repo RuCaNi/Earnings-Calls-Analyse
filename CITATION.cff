@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Wenn Sie diesen Code verwenden, zitieren Sie bitte die zugrundeliegende Bachelorarbeit."
+title: "Hybrides Modell zur Analyse von Earnings Calls"
+abstract: >-
+  Code zu einer Bachelorarbeit, die ein hybrides Modell aus LLM-basierter
+  Feature-Extraktion und nachgelagertem klassischem Machine Learning entwickelt.
+  Ein lokales Open-Weights-Modell extrahiert neun sprachliche Dimensionen aus
+  anonymisierten Frage-Antwort-Teilen von Earnings Call Transkripten des S&P 500
+  (2005–2025), die anschliessend als Input linearer, baumbasierter und
+  neuronaler Modelle zur Prognose der Kursentwicklung des Folgequartals dienen.
+type: software
+authors:
+  - family-names: "Cardell"
+    given-names: "Ruben Nicolas"
+    email: "ruben.cardell@student.unisg.ch"
+    affiliation: "Universität St.Gallen, Institut für Wirtschaftsinformatik (IWI-HSG)"
+version: "1.0.0"
+date-released: "2026-09-30"
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/USERNAME/REPO"
+keywords:
+  - earnings calls
+  - large language models
+  - sentiment analysis
+  - hybrid model
+  - distraction bias
+  - machine learning
+
+preferred-citation:
+  type: thesis
+  title: "Analyse von Earnings Calls: Hybrides Modell aus Machine Learning und Large Language Models zur Verringerung von Distraction Bias"
+  authors:
+    - family-names: "Cardell"
+      given-names: "Ruben Nicolas"
+  year: 2026
+  month: 9
+  institution:
+    name: "Universität St.Gallen"
+  department: "Institut für Wirtschaftsinformatik (IWI-HSG)"
+  thesis-type: "Bachelorarbeit"
