@@ -1,2 +1,8 @@
 .DS_Store
 .idea/
+data/features.parquet
+data/prep_data_v3.csv
+data/prep_data_v4.csv
+data/raw_hf.parquet
+models/forest_v3.joblib
+models/forest_v5.joblib

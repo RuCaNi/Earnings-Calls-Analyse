@@ -22,17 +22,6 @@ Portfolios.
 
 ---
 
-## Ablauf
-
-```mermaid
-flowchart LR
-    A["Rohdaten<br/>Transkripte + Kursdaten"] --> B["PREprocessing<br/>Anonymisierung,<br/>Frage-Antwort-Splitting"]
-    B --> C["LLM V1.py / LLM V2.py<br/>Gemma 4 E4B via vLLM"]
-    C --> D["POSTprocessing<br/>JSON parsen,<br/>aggregieren, Zielvariable"]
-    D --> E["ML Training V1/V2/V3<br/>7 Modellvarianten,<br/>Standard und getunt"]
-    E --> F["RESULTS / GRAPH<br/>Tabellen und Abbildungen"]
-```
-
 ## Versuchsaufbau
 
 | Versuch | Eingabe an das LLM                                                      | Merkmale je Transkript |
