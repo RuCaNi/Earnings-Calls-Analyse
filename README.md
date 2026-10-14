@@ -97,7 +97,8 @@ Kontrollversuch, unabhängig von Schritt 4 bis 6:
 
 Grundlage ist ein öffentlich verfügbarer Datensatz von Hugging Face:
 
-- Nanavaty, R. (2026). *S&P 500 earnings episodes (2005–2025)*. <https://huggingface.co/datasets/RudrakshNanavaty/earnings-call-data>
+- Nanavaty, R. (2026). *S&P 500 earnings episodes (2005–2025)* [Data set]. Hugging Face.
+<https://huggingface.co/datasets/RudrakshNanavaty/earnings-call-data>
 
 `raw_hf.parquet` enthält die Transkripte als Liste von Sprecher-Turns
 (`structured_content`) je `episode_id` im Format `TICKER_JAHR_QUARTAL`.
