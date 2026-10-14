@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Bachelorarbeit – Universität St.Gallen (HSG)
-# Weniger Bias, mehr Rendite? Hybrides Modell aus Large Language Models und Machine Learning zur Analyse von Earnings Calls
+# Weniger Bias, mehr Rendite?<br> Hybrides Modell aus Large Language Models und Machine Learning zur Analyse von Earnings Calls
 ## Ruben Nicolas Cardell
 ### Prof. Dr. Ivo Blohm & Tobias Kotzian – Institut für Wirtschaftsinformatik (IWI-HSG)
 #### 14.10.2026
