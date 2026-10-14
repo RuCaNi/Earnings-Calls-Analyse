@@ -1,7 +1,7 @@
 """
 Masseninferenz der Frage-Antwort-Paare mit Gemma 4 E4B über vLLM (Versuch 1).
 
-Analyse von Earnings Calls: Hybrides Modell aus Machine Learning und Large Language Models zur Verringerung von Distraction Bias
+Weniger Bias, mehr Rendite? Hybrides Modell aus Large Language Models und Machine Learning zur Analyse von Earnings Calls
 Bachelorarbeit an der Universität St.Gallen (HSG) / Institut für Wirtschaftsinformatik (IWI-HSG)
 
 Autor: Ruben Nicolas Cardell

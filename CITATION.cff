@@ -15,7 +15,7 @@ authors:
     email: "ruben.cardell@student.unisg.ch"
     affiliation: "Universität St.Gallen, Institut für Wirtschaftsinformatik (IWI-HSG)"
 version: "1.0.0"
-date-released: "2026-09-30"
+date-released: "2026-10-14"
 license: PolyForm-Noncommercial-1.0.0
 repository-code: "https://github.com/RuCaNi/Earnings-Calls-Analyse"
 keywords:
@@ -28,12 +28,12 @@ keywords:
 
 preferred-citation:
   type: thesis
-  title: "Analyse von Earnings Calls: Hybrides Modell aus Machine Learning und Large Language Models zur Verringerung von Distraction Bias"
+  title: "Weniger Bias, mehr Rendite? Hybrides Modell aus Large Language Models und Machine Learning zur Analyse von Earnings Calls"
   authors:
     - family-names: "Cardell"
       given-names: "Ruben Nicolas"
   year: 2026
-  month: 9
+  month: 10
   institution:
     name: "Universität St.Gallen"
   department: "Institut für Wirtschaftsinformatik (IWI-HSG)"
